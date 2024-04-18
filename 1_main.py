@@ -3,7 +3,7 @@ import os
 import cv2
 
 # Define constants
-DATA_DIR = "C:/Users/dell/PycharmProjects/pythonProject4/Sign_language_image"
+DATA_DIR = "D:/Sign_language"
 number_of_classes = 26
 dataset_size = 100
 
