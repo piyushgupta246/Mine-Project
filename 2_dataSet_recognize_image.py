@@ -9,7 +9,7 @@ mp_hands = mp.solutions.hands
 hands = mp_hands.Hands(static_image_mode=True, min_detection_confidence=0.3)
 
 # Specify the data directory
-DATA_DIR = r"C:/Users/dell/PycharmProjects/pythonProject4/Sign_language_image"
+DATA_DIR = r"D:\Sign_language"
 
 # Lists to store data and labels
 data = []
